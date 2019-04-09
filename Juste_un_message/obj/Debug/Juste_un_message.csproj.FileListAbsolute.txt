@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\bin\Debug\Juste_un_message.exe.config
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\bin\Debug\Juste_un_message.exe
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\bin\Debug\Juste_un_message.pdb
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.csprojAssemblyReference.cache
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\MainWindow.g.cs
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\App.g.cs
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message_MarkupCompile.cache
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message_MarkupCompile.lref
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\MainWindow.baml
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.g.resources
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.Properties.Resources.resources
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.csproj.GenerateResource.cache
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.exe
+C:\Users\Home\Desktop\Exercice1\Juste_un_message\Juste_un_message\obj\Debug\Juste_un_message.pdb
